@@ -1,5 +1,8 @@
-------------------
-M.Sc Thesis Codes:
-------------------
+---------------
+Mean Bias Maps:
+---------------
 
-This program calculates the mean biases for each grid point and checks its statistical significance. Then it plots them into a map for each season.
+This program:
+1. calculates the mean biases (model-observations) for each grid point 
+2. checks the statistical significance of the differences
+3. plots them into a map for each season
